@@ -1,7 +1,8 @@
 # AUTMAV-WINDOW-DETECTOR
-THIS Sofware debug and develop by AUTMAV (Autunoumus airial vehicle labratory) 
+THIS Software is debugged and Developed by mhkazemi  (Autonomous Arial Vehicle laboratory)
+mhkazemi_engineer@yahoo.com
 
-for use from this software follow below step:
+for use from this software please follow below step:
 
 1-copy this cod in your ROS workspace
 
